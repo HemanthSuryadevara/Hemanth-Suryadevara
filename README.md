@@ -5,10 +5,8 @@
   <title>Hemanth | Design Verification & Embedded Systems Portfolio</title>
 </head>
 <body>
-  <h1>Hemanth Prasad Chowdary Suryadevara!<br/>
-    <a href="https://github.com/yourusername">Design Verification Engineer</a>, 
-    <a href="https://linkedin.com/in/hemanth-prasad-chowdary-suryadevara-965130174/">Embedded Systems Enthusiast</a>
-  </h1>
+  <h1>Hemanth Prasad Chowdary Suryadevara! "Passionate about designing smarter circuits and verifying reliable systems."<br/>
+    
 
   <!-- 🎓 Education -->
   <h2>🎓 Education</h2>
