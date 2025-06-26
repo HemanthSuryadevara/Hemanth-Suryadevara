@@ -25,7 +25,6 @@
   <h2>🏅 Certifications</h2>
   <ul>
     <li>Udemy: Verification Series Part 1 – SystemVerilog Essentials (Feb 2025)</li>
-    <!-- Add more certifications here if applicable -->
   </ul>
 
   <!-- 💼 Experience -->
