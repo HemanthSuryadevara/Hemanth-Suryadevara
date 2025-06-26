@@ -11,8 +11,8 @@
   <h2>🎓 Education</h2>
   <p>
     <b>Master of Science in Electrical & Electronics Engineering</b><br/>
-    California State University, Northridge (Aug 2023 – May 2025)<br/>
-    GPA: 3.0
+    California State University, Northridge (Aug 2023 – Dec 2025)<br/>
+    GPA: 3.3
   </p>
   <p>
     <b>Bachelor of Engineering in Electronics and Communication Engineering</b><br/>
@@ -23,8 +23,8 @@
   <!-- 🏅 Certifications (Add more as needed) -->
   <h2>🏅 Certifications</h2>
   <ul>
-    <li>Coming soon: Add any certifications like FPGA, UVM, Embedded C, etc.</li>
-    <li>You can also mention online courses or verifiable achievements (e.g. Coursera, Udemy, NPTEL)</li>
+    <li>Udemy: Verification Series Part 1: SystemVerilog Essentials</li></li>
+    <li></li>
   </ul>
 
   <!-- 💼 Experience -->
