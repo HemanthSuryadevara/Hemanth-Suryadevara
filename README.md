@@ -6,14 +6,11 @@
 </head>
   
 <body>
-  <h1>Hi, I'm Hemanth 👋</h1>
-  <p>Welcome to my portfolio website hosted on GitHub Pages.</p>
+  <h1>Hemanth Prasad Chowdary Suryadevara</h1>
+  <p><i>"Passionate about designing smarter circuits and verifying reliable systems."</i></p>
 </body>
 </html>
 
-
-  <h1>Hemanth Prasad Chowdary Suryadevara</h1>
-  <p><i>"Passionate about designing smarter circuits and verifying reliable systems."</i></p>
 
   <!-- 🎓 Education -->
   <h2>🎓 Education</h2>
