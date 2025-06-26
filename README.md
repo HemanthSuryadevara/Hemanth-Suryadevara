@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hemanth | Design Verification & Embedded Systems Portfolio</title>
 </head>
 <body>
   <h1>Hemanth Prasad Chowdary Suryadevara! "Passionate about designing smarter circuits and verifying reliable systems."<br/>
