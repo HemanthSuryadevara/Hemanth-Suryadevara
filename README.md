@@ -46,7 +46,7 @@
     </li>
 
     <li>
-      <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
+       <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
       <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
       Developed and simulated a low-power multiplexer using logic gate optimization.
     </li>
