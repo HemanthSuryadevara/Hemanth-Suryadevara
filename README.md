@@ -38,18 +38,18 @@
 
   <!-- 👨‍💻 Projects -->
   <h2>👨‍💻 Projects</h2>
-
- <li>
-     <b>SPI Protocol Implementation</b> — Verilog, Synopsys VCS<br/>
-        <a href="https://github.com/yourusername/spi-protocol-verilog">GitHub Repo</a><br/>
-        Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
-  </li>
-
-  <li>
-     <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
-        <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
-         Developed and simulated a low-power multiplexer using logic gate optimization.
-  </li>
+  <ul>
+    <li>
+      <b>SPI Protocol Implementation</b> — Verilog, Synopsys VCS<br/>
+      <a href="https://github.com/yourusername/spi-protocol-verilog" target="_blank" rel="noopener noreferrer">GitHub Repo</a><br/>
+      Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
+    </li>
+    <li>
+      <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
+      <a href="https://github.com/yourusername/ltspice-mux" target="_blank" rel="noopener noreferrer">GitHub Repo</a><br/>
+      Developed and simulated a low-power multiplexer using logic gate optimization.
+    </li>
+  </ul>
 
   <!-- 💡 Why Hire Me? -->
   <h2>💡 Why Should You Hire Me?</h2>
@@ -63,9 +63,9 @@
   <!-- 📫 Reach Out -->
   <h2>📫 Reach Out</h2>
   <p>
-    📧 <a href="mailto:hemanthsuryadevara@gmail.com">hemanthsuryadevara@gmail.com</a><br/>
-    🔗 <a href="https://linkedin.com/in/hemanth-prasad-chowdary-suryadevara-965130174/">LinkedIn</a><br/>
-    💻 <a href="https://github.com/yourusername">GitHub</a>
+    📧 <a href="mailto:hemanthsuryadevara@gmail.com" target="_blank" rel="noopener noreferrer">hemanthsuryadevara@gmail.com</a><br/>
+    🔗 <a href="https://linkedin.com/in/hemanth-prasad-chowdary-suryadevara-965130174/" target="_blank" rel="noopener noreferrer">LinkedIn</a><br/>
+    💻 <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
   </p>
 
 </body>
