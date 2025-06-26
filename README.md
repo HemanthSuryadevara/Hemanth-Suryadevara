@@ -38,13 +38,12 @@
 
   <!-- 👨‍💻 Projects -->
   <h2>👨‍💻 Projects</h2>
-  <ul>
-    <li>
-      <b>SPI Protocol Implementation</b> — Verilog, Synopsys VCS<br/>
-      <a href="https://github.com/yourusername/spi-protocol-verilog">GitHub Repo</a><br/>
-      Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
-    </li>
-  </ul>
+
+ <li>
+     <b>SPI Protocol Implementation</b> — Verilog, Synopsys VCS<br/>
+     <a href="https://github.com/yourusername/spi-protocol-verilog">GitHub Repo</a><br/>
+     Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
+  </li>
 
   <li>
      <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
