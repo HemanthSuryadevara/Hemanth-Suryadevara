@@ -23,7 +23,7 @@
   <!-- 🏅 Certifications (Add more as needed) -->
   <h2>🏅 Certifications</h2>
   <ul>
-    <li>Udemy: Verification Series Part 1: SystemVerilog Essentials</li></li>
+   🎓 <li>Udemy: Verification Series Part 1: SystemVerilog Essentials - Feb 2025</li></li>
     <li></li>
   </ul>
 
