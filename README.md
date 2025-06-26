@@ -41,16 +41,12 @@
       <a href="https://github.com/yourusername/spi-protocol-verilog">GitHub Repo</a><br/>
       Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
     </li>
-
-    <li><b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
-      <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
-      Developed and simulated a low-power multiplexer using logic gate optimization.
-    </li>
-
-    <li><b>Web CMS Management</b><br/>
-      Enhanced user experience by optimizing and updating WordPress/Drupal web content at CSUN.
-    </li>
-  </ul>
+    
+  <li>
+    <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
+    <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
+    Developed and simulated a low-power multiplexer using logic gate optimization.
+  </li>
 
   <!-- 💡 Why Hire Me? -->
   <h2>💡 Why Should You Hire Me?</h2>
