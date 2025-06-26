@@ -60,9 +60,7 @@
   <!-- 📫 Reach Out -->
   <h2>📫 Reach Out</h2>
   <p>
-    <a href="mailto:hemanthsuryadevara@gmail.com">📧 hemanthsuryadevara@gmail.com</a><br/>
-    <a href="https://linkedin.com/in/hemanth-prasad-chowdary-suryadevara-965130174/">🔗 LinkedIn Profile</a><br/>
-    <a href="https://github.com/yourusername">💻 GitHub Portfolio</a>
+    📧 <a href="mailto:hemanthsuryadevara@gmail.com"> hemanthsuryadevara@gmail.com</a><br/>  <a href="https://linkedin.com/in/hemanth-prasad-chowdary-suryadevara-965130174/">🔗 LinkedIn </a><br/> <a href="https://github.com/yourusername">💻 GitHub </a>
   </p>
 </body>
 </html>
