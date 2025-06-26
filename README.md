@@ -26,11 +26,7 @@
   <ul>
     <li>Udemy: Verification Series Part 1 – SystemVerilog Essentials (Feb 2025)</li>
   </ul>
-<li>
-   <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
-  <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
-  Developed and simulated a low-power multiplexer using logic gate optimization.
-</li>
+
   <!-- 💼 Experience -->
   <h2>💼 Experience</h2>
   <p>
@@ -49,6 +45,12 @@
       Simulated SPI master-slave communication with testbenches. Verified phase, polarity, and data transmission.
     </li>
   </ul>
+
+  <li>
+     <b>2:1 Multiplexer CMOS Design</b> — LTspice<br/>
+     <a href="https://github.com/yourusername/ltspice-mux">GitHub Repo</a><br/>
+      Developed and simulated a low-power multiplexer using logic gate optimization.
+  </li>
 
   <!-- 💡 Why Hire Me? -->
   <h2>💡 Why Should You Hire Me?</h2>
