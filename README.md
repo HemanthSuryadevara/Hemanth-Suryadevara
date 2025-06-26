@@ -48,14 +48,14 @@
     Developed and simulated a low-power multiplexer using logic gate optimization.
   </li>
 
-  <!-- 💡 Why Hire Me? -->
-  <h2>💡 Why Should You Hire Me?</h2>
-  <ul>
-    <li>Strong foundation in digital electronics, Verilog, and embedded systems.</li>
-    <li>Hands-on experience with simulation tools like Synopsys VCS and LTspice.</li>
-    <li>Quick learner with a passion for hardware design and verification.</li>
-    <li>Effective communicator and team collaborator with web and tech skills.</li>
-  </ul>
+ <!-- 💡 Why Hire Me? -->
+<h2>💡 Why Should You Hire Me?</h2>
+<ul>
+   <li>Strong foundation in digital electronics, Verilog, and embedded systems.</li>
+   <li>Hands-on experience with simulation tools like Synopsys VCS and LTspice.</li>
+   <li>Quick learner with a passion for hardware design and verification.</li>
+   <li>Effective communicator and team collaborator with web and tech skills.</li>
+ </ul>
 
   <!-- 📫 Reach Out -->
   <h2>📫 Reach Out</h2>
